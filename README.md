@@ -82,5 +82,6 @@ Pasos Que Se Utilizo Para La Practica.
 
 Ejemplo De Pagina De WordPress....
 
-  [Siguente](Info.md)
+  [Pagina WordPress](Info.md)
  
+  [Practica Maquina Virtual Linux 🐧 ](info2.md)
