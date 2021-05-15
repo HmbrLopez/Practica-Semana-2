@@ -25,5 +25,34 @@ Pasos Que Se Utilizo Para La Practica.
 
 <img src="images/cap3.png" class="card-img-top" alt="...">
 
+3. 🕵️. Crearemos el plan de App Service.
 
 <img src="images/cap4.png" class="card-img-top" alt="...">
+
+
+<img src="images/cap5.png" class="card-img-top" alt="...">
+
+4. 🕵️.  Configuramos el plan de tarifa.
+
+
+<img src="images/cap6.png" class="card-img-top" alt="...">
+
+
+<img src="images/cap7.png" class="card-img-top" alt="...">
+
+5. 🕵️. Configuramos el plan de mysql.
+
+<img src="images/cap8.png" class="card-img-top" alt="...">
+
+<img src="images/cap9.png" class="card-img-top" alt="...">
+
+<img src="images/cap10.png" class="card-img-top" alt="...">
+
+6. 🕵️. Ya finalizado la configuracion del recurso procederemos a crearlo.
+
+
+<img src="images/cap11.png" class="card-img-top" alt="...">
+
+7. 🕵️. Nos mostrara una notificacion que esta implementando el recurso 
+
+<img src="images/cap12.png" class="card-img-top" alt="...">
