@@ -65,3 +65,6 @@ Pasos Que Se Utilizo Para La Practica.
 10.  🕵️. Estando iniciado el recurso daremos click en la url del wordpress creado.
 
 <img src="images/cap14.png" class="card-img-top" alt="...">
+
+
+<img src="images/cap15.png" class="card-img-top" alt="...">
