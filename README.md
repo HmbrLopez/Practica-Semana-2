@@ -80,5 +80,7 @@ Pasos Que Se Utilizo Para La Practica.
 
 <img src="images/cap18.png" class="card-img-top" alt="...">
 
-  [Siguente](info.md)
+Ejemplo De Pagina De WordPress....
+
+  [Siguente](Info.md)
  
