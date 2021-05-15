@@ -70,8 +70,10 @@ Pasos Que Se Utilizo Para La Practica.
 
 <img src="images/cap15.png" class="card-img-top" alt="...">
 
-
+12. 🕵️. Colocamos los datos que nos pide parala instalacion.
 <img src="images/cap16.png" class="card-img-top" alt="...">
 
-
+13. 🕵️ Debemos recordar el usuario ya que con el podremos acceder al administrador de wordpress para su edicion.
 <img src="images/cap17.png" class="card-img-top" alt="...">
+
+
