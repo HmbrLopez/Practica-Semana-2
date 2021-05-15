@@ -66,5 +66,12 @@ Pasos Que Se Utilizo Para La Practica.
 
 <img src="images/cap14.png" class="card-img-top" alt="...">
 
+11. 🕵️ Configuraremos nuestro wordpress ya estando en linea.
 
 <img src="images/cap15.png" class="card-img-top" alt="...">
+
+
+<img src="images/cap16.png" class="card-img-top" alt="...">
+
+
+<img src="images/cap17.png" class="card-img-top" alt="...">
