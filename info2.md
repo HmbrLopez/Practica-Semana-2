@@ -1,15 +1,15 @@
 <h1> Practica De Maquina Virtual </h1>
-1. 🐧 primero debemos  crearemos  la maquina virtual.
-    Estndo en la ventana de inicio de azure..
+<h1>1. 🐧 primero debemos  crearemos  la maquina virtual.
+    Estndo en la ventana de inicio de azure..</h1>
 
 <img src="imageslinux/cap1.png" class="card-img-top" alt="...">
 
-2. 🐧 Hacemos click en crear la maquina virtual
+<h1>2. 🐧 Hacemos click en crear la maquina virtual</h1>
 
 <img src="imageslinux/cap2.png" class="card-img-top" alt="...">
 
-3. 🐧 Colocamos los datos de nuestra maquina virtual
-    debemos crear el grupo de recursos para almacenar nuestras maquinas virtuales
+<h1>3. 🐧 Colocamos los datos de nuestra maquina virtual
+    debemos crear el grupo de recursos para almacenar nuestras maquinas virtuales </h1>
 <img src="imageslinux/cap3.png" class="card-img-top" alt="...">
 
 <img src="imageslinux/cap4.png" class="card-img-top" alt="...">
