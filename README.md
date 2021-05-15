@@ -12,6 +12,18 @@ Creacion de Pagina WordPress
 Pasos Que Se Utilizo Para La Practica.
 
 
-<img src="https://www.educadictos.com/wp-content/uploads/2018/08/Sin-t%C3%ADtulo-1.jpg" class="card-img-top" alt="...">
+1. 🕵️  Primeroes estar en nuestra cuenta iniciada de azure en la ventana de inicio en la barrade busqueda buscamos wordpress.
 
-1. 🕵️  
+
+<img src="images/cap1.png" class="card-img-top" alt="...">
+
+
+<img src="images/cap2.png" class="card-img-top" alt="...">
+
+2. 🕵️. Debemos crear el recurso de wordpress con su grupo de recursos.
+
+
+<img src="images/cap3.png" class="card-img-top" alt="...">
+
+
+<img src="images/cap4.png" class="card-img-top" alt="...">
