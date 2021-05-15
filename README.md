@@ -60,3 +60,8 @@ Pasos Que Se Utilizo Para La Practica.
 8. 🕵️  Nos mostrara una notificacion que finalizo la implementacion del recurso.
 
 <img src="images/cap13.png" class="card-img-top" alt="...">
+
+9.   🕵️. Nos mostrara un panel para configurar el recurso.
+10.  🕵️. Estando iniciado el recurso daremos click en la url del wordpress creado.
+
+<img src="images/cap14.png" class="card-img-top" alt="...">
