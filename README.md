@@ -76,4 +76,7 @@ Pasos Que Se Utilizo Para La Practica.
 13. 🕵️ Debemos recordar el usuario ya que con el podremos acceder al administrador de wordpress para su edicion.
 <img src="images/cap17.png" class="card-img-top" alt="...">
 
+14. 🕵️ Finalizamos la instalacion de wordpress.
+
+<img src="images/cap18.png" class="card-img-top" alt="...">
 
