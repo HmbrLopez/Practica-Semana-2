@@ -80,3 +80,5 @@ Pasos Que Se Utilizo Para La Practica.
 
 <img src="images/cap18.png" class="card-img-top" alt="...">
 
+<h1> Pagina de Wordpress </h1>
+
