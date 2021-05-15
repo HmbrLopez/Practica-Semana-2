@@ -20,3 +20,8 @@
 
 <img src="imageslinux/cap10.png" class="card-img-top" alt="...">
 
+<img src="imageslinux/cap11.png" class="card-img-top" alt="...">
+
+<img src="imageslinux/cap12.png" class="card-img-top" alt="...">
+
+<img src="imageslinux/cap13.png" class="card-img-top" alt="...">
