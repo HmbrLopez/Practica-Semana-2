@@ -82,7 +82,8 @@ Pasos Que Se Utilizo Para La Practica.
 
 <h1> Pagina de Wordpress </h1>
  [Para Mas Info Dar Click Aqui ---->>>>>](info.md) 
- 
+ <p>
   Copyright
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
       <a href="#"> Humberto Lopez Blanco</a>
+     </p>
