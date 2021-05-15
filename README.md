@@ -81,7 +81,7 @@ Pasos Que Se Utilizo Para La Practica.
 <img src="images/cap18.png" class="card-img-top" alt="...">
 
 <h1> Pagina de Wordpress </h1>
- [Para Mas Info Dar Click Aqui ---->>>>>](info.md) 
+  [Mas CONCEPTOS 🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑 ---->>>>>](info.md)
  <p>
   Copyright
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
