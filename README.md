@@ -53,6 +53,10 @@ Pasos Que Se Utilizo Para La Practica.
 
 <img src="images/cap11.png" class="card-img-top" alt="...">
 
-7. 🕵️. Nos mostrara una notificacion que esta implementando el recurso 
+7. 🕵️. Nos mostrara una notificacion que esta implementando el recurso.
 
 <img src="images/cap12.png" class="card-img-top" alt="...">
+
+8. 🕵️  Nos mostrara una notificacion que finalizo la implementacion del recurso.
+
+<img src="images/cap13.png" class="card-img-top" alt="...">
