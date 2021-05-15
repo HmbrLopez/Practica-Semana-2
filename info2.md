@@ -22,13 +22,16 @@
 <img src="imageslinux/cap7.png" class="card-img-top" alt="...">
 6. 🐧 Ya completado el proceso podemos ir al recurso.
 <img src="imageslinux/cap8.png" class="card-img-top" alt="...">
-
+7. 🐧  Probando la conexion en terminal desde una pc.
 <img src="imageslinux/cap9.png" class="card-img-top" alt="...">
+8. 🐧 probando con dos terminales las conexiones de las maquinas virtuales.
 
 <img src="imageslinux/cap10.png" class="card-img-top" alt="...">
+9. 🐧 Haciendo el emparejamiento para poder realizar el ping de maquina a maquina.
 
 <img src="imageslinux/cap11.png" class="card-img-top" alt="...">
 
+10. 🐧. Relizando las pruebas de conexion con sus respectivas direcciones.
 <img src="imageslinux/cap12.png" class="card-img-top" alt="...">
 
 <img src="imageslinux/cap13.png" class="card-img-top" alt="...">
